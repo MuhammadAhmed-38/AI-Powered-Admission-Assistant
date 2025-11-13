@@ -3,25 +3,35 @@ streamlit>=1.28.0
 pandas>=1.5.0
 numpy>=1.21.0
 
-# Machine Learning
+# Machine Learning (Optional but recommended)
 scikit-learn>=1.0.0
 sentence-transformers>=2.2.0
-torch>=2.2.2
-shap>=0.41.0
 
-# Natural Language Processing
+# Natural Language Processing (Optional)
 textblob>=0.17.0
 
-# Data Visualization
+# Voice Services (Optional)
+SpeechRecognition>=3.10.0
+pyttsx3>=2.90
+pyaudio>=0.2.11
+
+# Data Visualization (Optional)
 plotly>=5.0.0
 
 # API Requests
 requests>=2.28.0
 
+# Database
+sqlite3  # Usually included with Python
+
 # Date/Time handling
 python-dateutil>=2.8.0
 
-# Development Tools
+# Additional ML libraries for advanced features (Optional)
+torch>=1.12.0
+shap>=0.41.0
+
+# Development Dependencies (Optional)
 pytest>=7.0.0
 black>=22.0.0
 flake8>=5.0.0
