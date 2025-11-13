@@ -1,0 +1,15 @@
+# Ignore virtual environments and cache
+uel_ai_env/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+# Ignore Python virtual environments
+uel_ai_env/
+*.pyc
+__pycache__/
+
+uel_ai_env/
+.venv/
+__pycache__/
+.DS_Store

@@ -1,0 +1,109 @@
+COURSE RECOMMENDATIONS FOR MUHAMMAD AHMED
+============================================================
+
+USER PROFILE:
+--------------------
+Field Of Interest: Artificial Intelligence
+Academic Level: bachelor's
+Preferred Study Level: any
+Gpa: 3.5
+Ielts Score: 7.0
+Career Goals: ML Engineer , AI Researcher
+Interests: ['ML', 'Automation', 'AI']
+Professional Skills: ['python', 'numpy', 'matplotlib', 'ML Models']
+Budget Max: 100000
+Work Experience Years: 1
+
+RECOMMENDATIONS:
+--------------------
+
+1. Artificial Intelligence PhD
+   Department: School of Computing
+   Level: PhD
+   Fees: £18,000
+   Duration: 3 years
+   Match Score: 0.89 (Excellent Match)
+   Description: Research in AI with focus on innovative algorithms and applications
+   Reasons: Meets GPA requirement (3.2), Meets IELTS requirement (6.5), Within budget (£18,000)
+
+2. Artificial Intelligence PhD
+   Department: School of Computing
+   Level: PhD
+   Fees: £18,000
+   Duration: 3 years
+   Match Score: 0.89 (Excellent Match)
+   Description: Research in AI with focus on innovative algorithms and applications
+   Reasons: Meets GPA requirement (3.2), Meets IELTS requirement (6.5), Within budget (£18,000)
+
+3. Artificial Intelligence PhD
+   Department: School of Computing
+   Level: PhD
+   Fees: £18,000
+   Duration: 3 years
+   Match Score: 0.89 (Excellent Match)
+   Description: Research in AI with focus on innovative algorithms and applications
+   Reasons: Meets GPA requirement (3.2), Meets IELTS requirement (6.5), Within budget (£18,000)
+
+4. Artificial Intelligence PhD
+   Department: School of Computing
+   Level: PhD
+   Fees: £18,000
+   Duration: 3 years
+   Match Score: 0.89 (Excellent Match)
+   Description: Research in AI with focus on innovative algorithms and applications
+   Reasons: Meets GPA requirement (3.2), Meets IELTS requirement (6.5), Within budget (£18,000)
+
+5. Artificial Intelligence MSc
+   Department: School of Computing
+   Level: masters
+   Fees: £16,500
+   Duration: 1 year
+   Match Score: 0.82 (Excellent Match)
+   Description: Advanced AI program focusing on machine learning and neural networks
+   Reasons: Meets GPA requirement (3.2), Meets IELTS requirement (6.5), Within budget (£16,500)
+
+6. Artificial Intelligence MSc
+   Department: School of Computing
+   Level: masters
+   Fees: £16,500
+   Duration: 1 year
+   Match Score: 0.82 (Excellent Match)
+   Description: Advanced AI program focusing on machine learning and neural networks
+   Reasons: Meets GPA requirement (3.2), Meets IELTS requirement (6.5), Within budget (£16,500)
+
+7. Artificial Intelligence MSc
+   Department: School of Computing
+   Level: masters
+   Fees: £16,500
+   Duration: 1 year
+   Match Score: 0.82 (Excellent Match)
+   Description: Advanced AI program focusing on machine learning and neural networks
+   Reasons: Meets GPA requirement (3.2), Meets IELTS requirement (6.5), Within budget (£16,500)
+
+8. Artificial Intelligence MSc
+   Department: School of Computing
+   Level: masters
+   Fees: £16,500
+   Duration: 1 year
+   Match Score: 0.82 (Excellent Match)
+   Description: Advanced AI program focusing on machine learning and neural networks
+   Reasons: Meets GPA requirement (3.2), Meets IELTS requirement (6.5), Within budget (£16,500)
+
+9. Machine Learning Apprenticeship
+   Department: School of Computing
+   Level: apprenticeship
+   Fees: £12,000
+   Duration: 2 years
+   Match Score: 0.72 (Excellent Match)
+   Description: Work-based training in machine learning and data analytics
+   Reasons: Meets GPA requirement (2.5), Meets IELTS requirement (5.5), Within budget (£12,000)
+
+10. Machine Learning Apprenticeship
+   Department: School of Computing
+   Level: apprenticeship
+   Fees: £12,000
+   Duration: 2 years
+   Match Score: 0.72 (Excellent Match)
+   Description: Work-based training in machine learning and data analytics
+   Reasons: Meets GPA requirement (2.5), Meets IELTS requirement (5.5), Within budget (£12,000)
+
