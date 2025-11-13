@@ -12,11 +12,6 @@ shap>=0.41.0
 # Natural Language Processing
 textblob>=0.17.0
 
-# Voice Services
-SpeechRecognition>=3.10.0
-pyttsx3>=2.90
-pyaudio>=0.2.11
-
 # Data Visualization
 plotly>=5.0.0
 
